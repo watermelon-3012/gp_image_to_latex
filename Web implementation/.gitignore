@@ -1,0 +1,9 @@
+*.pth
+*.pt
+*.ckpt
+*.h5
+*.zip
+*.tar
+*.tar.gz
+__pycache__/
+.env
