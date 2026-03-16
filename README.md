@@ -4,12 +4,6 @@ In this work, we experiment with different models for the problem of generating 
 
 **Key Words:** Natural Language Processing, LaTeX Code Generator, LaTeX dictionary, Transformer-based Models, Hybrid Models, Text Generation Evaluation, UI/UX Implementation
 
-The repository includes the following files:
-- README.md – Introduction of the project
-- all_in_one_experiment.ipynb – Contains everything from data preprocessing, model implementation and performance evaluation, and metrics.
-- Web Implementaion – The folder containing source code for the web implementation.
-- G32-GP2026-ICT.pdf – The report for this project
-
 **Group Members:**
 1. Nguyen Quang Minh - minhnq.22ba13221@usth.edu.vn
 2. Nguyen Cao Manh Thang - thangncm.23bi14403@usth.edu.vn
