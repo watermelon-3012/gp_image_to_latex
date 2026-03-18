@@ -136,7 +136,7 @@ def decode_text(token_ids_batch, vocab):
   return decoded_tokens, decoded_texts
 
 def evaluate_model(model, test_loader, vocab, max_seq_len, beam_size=5):
-    model.eval()
+    model.eval() 
     device = next(model.parameters()).device
 
     true_sequences_tokens = []
