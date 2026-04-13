@@ -43,7 +43,7 @@ The trained models are deployed on a **web-based interface**, allowing users to:
 ## Team Members
 - Nguyen Quang Minh – minhnq.22ba13221@usth.edu.vn  
 - Nguyen Cao Manh Thang – thangncm.23bi14403@usth.edu.vn  
-- **Le Sy Han – hanls.23bi14150@usth.edu.vn**
+- **Le Sy Han – hanls.23bi14150@usth.edu.vn (Leader)**
 - Le Hoang Dat – datlh.23bi14087@usth.edu.vn  
 - Bui Tuan Thanh – thanhbt.22ba13284@usth.edu.vn  
 - Duong Duc Anh – anhdd.23bi14012@usth.edu.vn  
